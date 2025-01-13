@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    gap: 200px;
+}
+
+.item{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
